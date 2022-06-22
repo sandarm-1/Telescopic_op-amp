@@ -74,7 +74,7 @@ In this circuit, this is how we bias the cascodes:
 ![image](https://user-images.githubusercontent.com/95447782/175022654-965f1fef-68ea-4aaf-bd09-c7595a2382df.png)
 
 
-![image](https://user-images.githubusercontent.com/95447782/175022666-32197532-4ebf-4965-a5e0-712379a2fd04.png)
+![image](https://user-images.githubusercontent.com/95447782/175023892-74cfa17d-4048-4344-85ac-81a6f59f0c74.png)
 
 
 As a general rule, **putting two devices in a “cascode arrangement” can be considered as equivalent to having a single transistor with much higher Rout**.
