@@ -11,4 +11,19 @@ That´s the Slew Rate.
 To measure the slew rate we add the capacitive load at the output, thus completing the op amp, and we apply unity gain feedback.
 
 
+![image](https://user-images.githubusercontent.com/95447782/175025362-499ca5d4-26ba-452a-a68c-b86f305b9a83.png)
+
+
+It turns out **the Slew rate of the telescopic op amp is exactly the same as the basic single stage op amp based on a simple differential pair and current mirror**.
+
+Next is swing limits (large signal swing).
+
+
+
+
+## Swing limits
+
+Next:
+
+* [Swing limits](Swing_analysis.md)
 
