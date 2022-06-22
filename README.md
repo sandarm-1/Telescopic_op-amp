@@ -5,7 +5,7 @@ Analysis of the single stage Telescopic op-amp
 
 
 
-## Single Stage Amplifier analysis (5T op-amp)
+## Telescopic Amplifier analysis
 ---
 [Frequency response](/Freq_Resp_analysis.md)
 
